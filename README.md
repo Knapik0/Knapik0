@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Krzysztof, Software Engineer and former semi-pro cyclist from Poland
 - 👀 I’m interested in algorithms, technology and sports
-- 🌱 I’m currently learning Spring Framework mostly but also a little bit of Angular, Bootstrap and other front-end technologies
+- 🌱 I’m currently learning how to write better tests and Spring Framework mostly but also a little bit of Angular, Bootstrap and other front-end technologies
 - 💞️ I’m looking to collaborate on Java Back-end software
 - 📫 How to reach me: krzknap@gmail.com
 
