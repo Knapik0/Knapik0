@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Krzysztof, Software Engineer and former semi-pro cyclist from Poland
-- 👀 I’m interested in  sports and technology
+- 👀 I’m mostly interested in traveling, sports and technology
 - 🌱 I’m currently learning how to write better tests and Spring Framework mostly but also a little bit of Angular, Bootstrap and other front-end technologies
 - 💞️ I’m looking to collaborate on fullstack projects
 - 📫 How to reach me: krzknap@gmail.com
